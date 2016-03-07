@@ -8,7 +8,7 @@
 #define PORT 5000
 
 int main(int argc, char** argv){
-<<<<<<< HEAD
+
   int listenFD, connectFD;
   struct sockaddr_in serverAddress;
 
